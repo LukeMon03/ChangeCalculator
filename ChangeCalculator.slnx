@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="ChangeCalculator.Tests/ChangeCalculator.Tests.csproj" />
-  <Project Path="ChangeCalculator/ChangeCalculator.csproj" />
+  <Project Path="ChangeCalculator.Tests/ChangeCalculatorApp.Tests.csproj" />
+  <Project Path="ChangeCalculator/ChangeCalculatorApp.csproj" />
 </Solution>

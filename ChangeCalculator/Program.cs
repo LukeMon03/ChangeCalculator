@@ -1,4 +1,4 @@
-﻿using ChangeCalulator.ChangeCalculator;
+﻿using ChangeCalulatorApp.ChangeCalculator;
 
 IChangeCalculator changeCalculator = new ChangeCalculator();
 

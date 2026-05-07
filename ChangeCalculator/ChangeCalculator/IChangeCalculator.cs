@@ -1,4 +1,4 @@
-﻿namespace ChangeCalulator.ChangeCalculator
+﻿namespace ChangeCalulatorApp.ChangeCalculator
 {
     public interface IChangeCalculator
     {
