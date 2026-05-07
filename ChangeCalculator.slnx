@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChangeCalculator.Tests/ChangeCalculator.Tests.csproj" />
+  <Project Path="ChangeCalculator/ChangeCalculator.csproj" />
+</Solution>
